@@ -1,0 +1,19 @@
+[
+ {
+  "title": "tomato",
+  "description": "tomato soup",
+  "preparation": "preparation 1",
+  "ingredients": [
+   4
+  ],
+  "categories": [
+   4
+  ],
+  "images": [
+   "78_gamer.png"
+  ],
+  "score": 0,
+  "updatedAt": "2022-07-21T20:11:48.509Z",
+  "id": 1
+ }
+]
